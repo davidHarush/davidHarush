@@ -25,7 +25,7 @@
 
 [IntentUtil](https://github.com/davidHarush/IntentUtil)
 
-* Util with built in Intents like email,GoogleSearch, sms and more...
+* Util with built in Intents like email, GoogleSearch, sms and more...
  
 ---
 
