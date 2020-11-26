@@ -7,7 +7,7 @@
 
 [Lifecyclelog](https://github.com/davidHarush/Lifecyclelog)
 
-* Util to log LifecycleOwner events
+* Util to log LifecycleOwner events.
  
 ---
 
