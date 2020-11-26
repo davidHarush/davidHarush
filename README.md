@@ -7,13 +7,13 @@
 
 [Lifecyclelog](https://github.com/davidHarush/Lifecyclelog)
 
-* Util to log LifecycleOwner events..
+* Util to log LifecycleOwner events
  
 ---
 
 [MyExtensions](https://github.com/davidHarush/MyExtensions)
 
-* Common Kotlin Extensions in all my side projects
+* Common Kotlin Extensions in all my side projects.
  
 ---
 
@@ -25,7 +25,7 @@
 
 [IntentUtil](https://github.com/davidHarush/IntentUtil)
 
-* Util with built in Intents like email,GoogleSearch, sms and more.....
+* Util with built in Intents like email,GoogleSearch, sms and more...
  
 ---
 
