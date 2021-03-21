@@ -10,6 +10,12 @@
 * Util to log LifecycleOwner events.
  
 ---
+[Bing Map Tutorial]( https://github.com/davidHarush/BingMapTutorial)
+
+* Android app that demonstrates work with Microsoft bing map
+
+---
+
 
 [MyExtensions](https://github.com/davidHarush/MyExtensions)
 
