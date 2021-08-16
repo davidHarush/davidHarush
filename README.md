@@ -16,17 +16,10 @@
 
 ---
 
-
 [MyExtensions](https://github.com/davidHarush/MyExtensions)
 
 * Common Kotlin Extensions in all my side projects.
- 
----
 
-[AndroidTemplate](https://github.com/davidHarush/androidTemplate)
-
-* Basic Template project with different branches, each branch show implementation to different ui element such as Motionlayout, paging library and more...
- 
 ---
 
 [IntentUtil](https://github.com/davidHarush/IntentUtil)
