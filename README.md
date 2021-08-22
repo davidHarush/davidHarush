@@ -4,6 +4,14 @@
 * A Wrapper class for Android's LruCache which adds a time based expiration functionality.
   
 ---
+[RetrofitSafeCallUtil](https://github.com/davidHarush/RetrofitSafeCallUtil)
+
+* For retrofit error handling
+
+The try catch(to retrofit service) will called from the RetrofitSafeCallUtil and you will get a data class Which contains the result, error(in case there is one), and status of the retrofit request.
+  
+---
+
 
 [Lifecyclelog](https://github.com/davidHarush/Lifecyclelog)
 
