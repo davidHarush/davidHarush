@@ -9,7 +9,8 @@
 <br/>
 
 
-####  ⭐ Here are some of me repositories:
+
+####   Here are some of me repositories:
 
 ---
 
