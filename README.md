@@ -3,7 +3,7 @@
 
 *  I'm a Android developer since 2014
 * I’m currently working as Android developer at [Culture Trip](https://theculturetrip.com/) 
-* Previous job: android developer at YIT work on Ynet application, the biggest news app in Israel with more than 1M unique users per month.
+* Previous job: Android developer at YIT work on Ynet application, the biggest news app in Israel with more than 1M unique users per month.
 
 
 <br/>
