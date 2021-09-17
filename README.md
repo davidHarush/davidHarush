@@ -1,10 +1,10 @@
 
 ### Hi All 👋
 
-*  I'm a Android developer since 2014
-* I’m currently working as Android developer at [Culture Trip](https://theculturetrip.com/) 
+* I'm a Android developer since 2014. 
+* Currently working as Android developer at [Culture Trip](https://theculturetrip.com/). 
 * Previous job: Android developer at YIT work on Ynet application, the biggest news app in Israel with more than 1M unique users per month.
-* And in personal life : Mushroom Hunter  🍄  and Father of twins  💪 
+* Personal life : Mushroom Hunter  🍄  and Father of twins  💪 
 <br/>
 
 <!-- ![android](https://img.shields.io/badge/-android-3b2e5a?&style=plastic&logo=android)
