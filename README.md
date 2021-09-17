@@ -1,21 +1,27 @@
 
 ### Hi All 👋
 
-
-
 *  I'm a Android developer since 2014
 * I’m currently working as Android developer at [Culture Trip](https://theculturetrip.com/) 
 * Previous job: Android developer at YIT work on Ynet application, the biggest news app in Israel with more than 1M unique users per month.
 * And in personal life : Mushroom Hunter  🍄  and Father of twins  💪 
+<br/>
 
-
-![android](https://img.shields.io/badge/-android-3b2e5a?&style=plastic&logo=android)
+<!-- ![android](https://img.shields.io/badge/-android-3b2e5a?&style=plastic&logo=android)
 <br/>
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
 <br/>
 ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin)
+<br/> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=davidHarush&show_icons=true&theme=buefy )
+<br/><br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidHarush&show_icons=true&theme=buefy )
+
 
 <br/>
+
+
 
 
 
