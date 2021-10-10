@@ -1,4 +1,5 @@
 
+
 ### Hi All 👋
 
 * I'm a Android developer since 2014. 
@@ -18,6 +19,9 @@
 <br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidHarush&show_icons=true&theme=buefy )
 
+
+<!-- ![](https://github-profile-trophy.vercel.app/?username=davidHarush)
+ -->
 
 <br/>
 
