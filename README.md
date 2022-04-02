@@ -50,11 +50,6 @@ The try catch(to retrofit service) will called from the RetrofitSafeCallUtil and
 [Lifecyclelog](https://github.com/davidHarush/Lifecyclelog)
 
 * Util to log LifecycleOwner events.
- 
----
-[Bing Map Tutorial]( https://github.com/davidHarush/BingMapTutorial)
-
-* Android app that demonstrates work with Microsoft bing map
 
 ---
 
