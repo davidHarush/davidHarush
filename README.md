@@ -27,9 +27,21 @@
 
 
 
+### 📬 Feel free to contact me:
+
+<p>
+  <a href="https://www.facebook.com/davidHarush83">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877f2?logo=Facebook&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/dharush/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="david.harus1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
 
 
-####   Here are some of me repositories:
+<br/>
+
+
+###   Here are some of me repositories:
 ---
 
 [AndroidTemplate](https://github.com/davidHarush/AndroidTemplate)
@@ -68,4 +80,5 @@ The try catch(to retrofit service) will called from the RetrofitSafeCallUtil and
 * Util with built in Intents like email, GoogleSearch, sms and more...
  
 ---
+
 
