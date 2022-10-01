@@ -3,7 +3,6 @@
 ### Hi All 👋
 
 * I'm a Android developer since 2014. 
-* Currently working as Android developer at Nvidia. 
 * Previous job: Android developer at YIT, worked on Ynet application, the biggest news app in Israel with more than 1M unique users per month.
 * Personal life : Mushroom Hunter  🍄  and Father of twins  💪 
 <br/>
