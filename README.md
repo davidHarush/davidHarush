@@ -2,9 +2,7 @@
 
 ### Hi All 👋
 
-* I'm a Android developer since 2014. 
-* Previous job: Android developer at YIT, worked on Ynet application, the biggest news app in Israel with more than 1M unique users per month.
-* Personal life : Mushroom Hunter  🍄  and Father of twins  💪 
+* I'm a Android developer, Mushroom Hunter 🍄 and Father of twins  💪 
 <br/>
 
 <!-- ![android](https://img.shields.io/badge/-android-3b2e5a?&style=plastic&logo=android)
@@ -42,10 +40,15 @@
 
 ###   Here are some of me repositories:
 ---
+[PokeCompose](https://github.com/davidHarush/PokeCompose)
+
+* This Repo PokeCompose demonstrates Android development with Hilt, Coroutines, Flow, Jetpack Compose, Ktor, and Material Design based on MVVM architecture.
+* All the network calls from sepred modle using Ktor with Kotlin serializable.
+---
 
 [AndroidTemplate](https://github.com/davidHarush/AndroidTemplate)
 
-* This template provides a starting point for my Mvvm Android projects.
+* This template provides a starting point for my Mvvm Android projects, with traditional XML technique and view binding.
 ---
 
 [LruTimeBaseCache](https://github.com/davidHarush/LruTimeBaseCache)
@@ -53,31 +56,8 @@
 * A Wrapper class for Android's LruCache which adds a time based expiration functionality.
   
 ---
-[RetrofitSafeCallUtil](https://github.com/davidHarush/RetrofitSafeCallUtil)
-
-* For retrofit error handling
-
-The try catch(to retrofit service) will called from the RetrofitSafeCallUtil and you will get a data class Which contains the result, error(in case there is one), and status of the retrofit request.
-  
----
-
 
 [Lifecyclelog](https://github.com/davidHarush/Lifecyclelog)
 
 * Util to log LifecycleOwner events.
-
----
-
-[MyExtensions](https://github.com/davidHarush/MyExtensions)
-
-* Common Kotlin Extensions in all my side projects.
-
----
-
-[IntentUtil](https://github.com/davidHarush/IntentUtil)
-
-* Util with built in Intents like email, GoogleSearch, sms and more...
- 
----
-
 
