@@ -1,8 +1,8 @@
 
 
-### Hi All 👋
-
-* I'm a Android developer, Mushroom Hunter 🍄 and Father of twins  💪 
+<h1 align="center">Hi 👋, I'm David Harush</h1>
+<h4 align="center">A passionate Android developer,bsc computer science graduate,<br/> Mushroom Hunter 🍄 and Father of twins  💪 </h4>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="60" height="60"/>
 <br/>
 
 <!-- ![android](https://img.shields.io/badge/-android-3b2e5a?&style=plastic&logo=android)
@@ -12,33 +12,24 @@
 ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin)
 <br/> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=davidHarush&show_icons=true&theme=buefy&layout=compact )
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidHarush&show_icons=true&theme=buefy&layout=compact" alt="Top Languages">
+ <br/> <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=davidHarush&show_icons=true&theme=buefy" alt="GitHub Stats">
 <br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidHarush&show_icons=true&theme=buefy )
+
+<!--src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="60" height="60"/>
+<!-- ![](https://github-profile-trophy.vercel.app/?username=davidHarush) -->
 
 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=davidHarush)
- -->
-
-<br/>
-
-
-
-### 📬 Feel free to contact me:
-
-<p>
-  <a href="https://www.facebook.com/davidHarush83">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877f2?logo=Facebook&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/dharush/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href = "mailto: david.harush1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
+ 📫 Reach me at **david.harush1@gmail.com**
+<br/>Connect with me:<br/>
+<p align="left">
+<a href="https://linkedin.com/in/dharush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharush" height="30" width="40" /></a>
+<a href="https://fb.com/davidharush83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="davidharush83" height="30" width="40" /></a>
 </p>
 
-
-<br/>
-
-
-###   Here are some of me repositories:
+####   Here are some of me repositories:
 ---
 [PokeCompose](https://github.com/davidHarush/PokeCompose)
 
