@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm David Harush</h1>
-<h4 align="center">A passionate Android developer,bsc computer science graduate,<br/> Mushroom Hunter 🍄 and Father of twins  💪 </h4>
+<h4 align="center">A passionate Android developer, Bsc computer science graduate,<br/> Mushroom Hunter 🍄 and Father of twins  💪 </h4>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="60" height="60"/>
 <br/>
 
