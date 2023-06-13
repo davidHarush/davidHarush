@@ -31,6 +31,12 @@
 
 ####   Here are some of me repositories:
 ---
+[MovieCompose](https://github.com/davidHarush/MovieCompose)
+* This Repo MovieCompose demonstrates Android development with Hilt, Coroutines, Flow, Jetpack Compose, Ktor, and Material Design based on MVVM architecture.
+* Use DynamicTheme and Apply dynamicColorScheme based off the system wallpaper.
+* All the network calls from sepred modle using Ktor with Kotlin serializable.
+---
+
 [PokeCompose](https://github.com/davidHarush/PokeCompose)
 
 * This Repo PokeCompose demonstrates Android development with Hilt, Coroutines, Flow, Jetpack Compose, Ktor, and Material Design based on MVVM architecture.
