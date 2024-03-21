@@ -29,31 +29,44 @@
 <a href="https://fb.com/davidharush83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="davidharush83" height="30" width="40" /></a>
 </p>
 
-####   Here are some of me repositories:
----
+<br/>
+<br/>
+
+
+
+###  Favorites repositories:
+
+[ScannerApp](https://github.com/davidHarush/ScannerApp.git)
+<br/>
+ScannerApp is a Android application, Developed with Android Compose.
+<br/>
+Using google libray:  ```mlkit-document-scanner ```
+<br/>
+After scening the document you can Share or Save the file as PDF foramt
+
+<br/>
+<br/>
+
+####   Here are some more repositories (but Old and not maintained):
 [MovieCompose](https://github.com/davidHarush/MovieCompose)
 * This Repo MovieCompose demonstrates Android development with Hilt, Coroutines, Flow, Jetpack Compose, Ktor, and Material Design based on MVVM architecture.
 * Use DynamicTheme and Apply dynamicColorScheme based off the system wallpaper.
 * All the network calls from sepred modle using Ktor with Kotlin serializable.
----
 
 [PokeCompose](https://github.com/davidHarush/PokeCompose)
 
 * This Repo PokeCompose demonstrates Android development with Hilt, Coroutines, Flow, Jetpack Compose, Ktor, and Material Design based on MVVM architecture.
 * All the network calls from sepred modle using Ktor with Kotlin serializable.
----
+
 
 [AndroidTemplate](https://github.com/davidHarush/AndroidTemplate)
 
 * This template provides a starting point for my Mvvm Android projects, with traditional XML technique and view binding.
----
 
 [LruTimeBaseCache](https://github.com/davidHarush/LruTimeBaseCache)
 
 * A Wrapper class for Android's LruCache which adds a time based expiration functionality.
   
----
-
 [Lifecyclelog](https://github.com/davidHarush/Lifecyclelog)
 
 * Util to log LifecycleOwner events.
