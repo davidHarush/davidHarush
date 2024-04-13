@@ -45,7 +45,11 @@ Using google libray:  ```mlkit-document-scanner ```
 <br/>
 After scening the document you can Share or Save the file as PDF foramt
 
+
+[TheMovieDbLab](https://github.com/davidHarush/TheMovieDbLab.git)
+A sleek Android app built with Jetpack Compose connecting to TheMovieDb API.
 <br/>
+It's a work-in-progress that showcases modern Android practices with Ktor, hilt and more.
 <br/>
 
 ####   Here are some more repositories (but Old and not maintained):
