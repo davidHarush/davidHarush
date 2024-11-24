@@ -35,7 +35,7 @@
 
 
 
-###  Favorites repositories:
+##  Favorites repositories:
 
 [ScannerApp](https://github.com/davidHarush/ScannerApp.git)
 <br/>
@@ -53,7 +53,7 @@ A sleek Android app built with Jetpack Compose connecting to TheMovieDb API.
 It's a work-in-progress that showcases modern Android practices with Ktor, hilt and more.
 <br/>
 
-####   Here are some more repositories (but Old and not maintained):
+###  Here are some more repositories (but Old and not maintained):
 [MovieCompose](https://github.com/davidHarush/MovieCompose)
 * This Repo MovieCompose demonstrates Android development with Hilt, Coroutines, Flow, Jetpack Compose, Ktor, and Material Design based on MVVM architecture.
 * Use DynamicTheme and Apply dynamicColorScheme based off the system wallpaper.
