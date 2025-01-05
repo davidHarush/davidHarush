@@ -45,13 +45,31 @@ Using google libray:  ```mlkit-document-scanner ```
 <br/>
 After scening the document you can Share or Save the file as PDF foramt
 
-
 [TheMovieDbLab](https://github.com/davidHarush/TheMovieDbLab.git)
 <br/>
 A sleek Android app built with Jetpack Compose connecting to TheMovieDb API.
 <br/>
 It's a work-in-progress that showcases modern Android practices with Ktor, hilt and more.
 <br/>
+
+[AutoArtist](https://github.com/davidHarush/AutoArtist)
+<br/>
+A Compose Multiplatform project for android ansd ios that dynamically generates AI images using GPT and DALL-E APIs.
+<br/>
+This project includes dependency management with Koin and a gallery feature for stored outputs, enabling a seamless and interactive user experience
+<br/>
+
+
+[MovieApp-ComposeMultiplatform](https://github.com/davidHarush/MovieApp-ComposeMultiplatform)
+<br/>
+A Kotlin Multiplatform project designed for Android and iOS.
+<br/>
+It allows users to browse movies using data fetched from TheMovieDb API. The app supports offline caching and provides a responsive and engaging UI for movie discovery<br/>
+<br/>
+
+
+
+
 
 ###  Here are some more repositories (but Old and not maintained):
 [MovieCompose](https://github.com/davidHarush/MovieCompose)
