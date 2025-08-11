@@ -14,6 +14,8 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidHarush&show_icons=true&theme=buefy&layout=compact" alt="Top Languages">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidHarush&show_icons=true&theme=buefy&layout=compact" alt="Top Languages">
+
 <!--<br/> <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=davidHarush&show_icons=true&theme=buefy" alt="GitHub Stats"> -->
  
