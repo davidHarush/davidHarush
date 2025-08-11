@@ -1,97 +1,69 @@
+# 👋 Hey, I'm David — Android & KMM engineer shipping Compose-first apps
+I build production Android & Kotlin Multiplatform apps with ML/AI features, tuned for performance and developer experience. Mushroom hunter and father of twins.
 
+[Portfolio/Repos](#featured-projects) · [Open to collaborate](#lets-build-together) · [Email](mailto:david.harush1@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR-LINK)
 
-<h1 align="center">Hi 👋, I'm David Harush</h1>
-<h4 align="center">A passionate Android developer, Bsc computer science graduate,<br/> Mushroom Hunter 🍄 and Father of twins  💪 </h4>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="60" height="60"/>
-<br/>
+## Tech Stack
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-%233DDC84?style=flat-square&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%2300C4B3?style=flat-square&logo=jetpackcompose&logoColor=white) ![KMM](https://img.shields.io/badge/KMM-%237F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Ktor](https://img.shields.io/badge/Ktor-%23EE4D2D?style=flat-square&logo=ktor&logoColor=white) ![Coroutines & Flow](https://img.shields.io/badge/Coroutines%20%26%20Flow-%237F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-<!-- ![android](https://img.shields.io/badge/-android-3b2e5a?&style=plastic&logo=android)
-<br/>
-![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
-<br/>
-![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin)
-<br/> -->
+![Hilt](https://img.shields.io/badge/Hilt-%23323330?style=flat-square&logo=dagger&logoColor=white) ![Koin](https://img.shields.io/badge/Koin-%23323330?style=flat-square&logo=kotlin&logoColor=white) ![SQLDelight](https://img.shields.io/badge/SQLDelight-%23F7DF1E?style=flat-square&logo=sqlite&logoColor=white) ![Room](https://img.shields.io/badge/Room-%233DDC84?style=flat-square&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23DD2C00?style=flat-square&logo=firebase&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-%2302303A?style=flat-square&logo=gradle&logoColor=white)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidHarush&show_icons=true&theme=buefy&layout=compact" alt="Top Languages">
-<!--<br/> <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=davidHarush&show_icons=true&theme=buefy" alt="GitHub Stats"> -->
- 
-<br/><br/>
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=flat-square&logo=githubactions&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-%23FA7343?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23007AFF?style=flat-square&logo=swift&logoColor=white)
 
-<!--src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="60" height="60"/>
-<!-- ![](https://github-profile-trophy.vercel.app/?username=davidHarush) -->
+## Featured Projects
 
+#### ScannerApp — Android Compose app using Google ML Kit Document Scanner; share or save as PDF
+![ScannerApp screenshot](TODO) <!-- TODO: replace with screenshot URL -->
+- **Highlights:** Quick scanning and PDF export.
+- **Notable libs:** Jetpack Compose, ML Kit Document Scanner.
+- **Link:** [ScannerApp](https://github.com/davidHarush/ScannerApp)
 
- 📫 Reach me at **david.harush1@gmail.com**
-<br/>Connect with me:<br/>
-<p align="left">
-<a href="https://linkedin.com/in/dharush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharush" height="30" width="40" /></a>
-<a href="https://fb.com/davidharush83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="davidharush83" height="30" width="40" /></a>
-</p>
+#### TheMovieDbLab — Android app with Jetpack Compose, Ktor, and Hilt; connects to TMDB API (WIP)
+![TheMovieDbLab screenshot](TODO) <!-- TODO: replace with screenshot URL -->
+- **Highlights:** Modern architecture and API integration.
+- **Notable libs:** Jetpack Compose, Ktor, Hilt.
+- **Link:** [TheMovieDbLab](https://github.com/davidHarush/TheMovieDbLab)
 
-<br/>
-<br/>
+#### AutoArtist — Compose Multiplatform app generating AI images on Android and iOS
+![AutoArtist screenshot](TODO) <!-- TODO: replace with screenshot URL -->
+- **Highlights:** GPT & DALL·E prompts and gallery.
+- **Notable libs:** Compose Multiplatform, Koin, OpenAI APIs.
+- **Link:** [AutoArtist](https://github.com/davidHarush/AutoArtist)
 
+#### MovieApp-ComposeMultiplatform — KMM app for Android & iOS using TMDB data
+![MovieApp screenshot](TODO) <!-- TODO: replace with screenshot URL -->
+- **Highlights:** Offline caching and responsive UI.
+- **Notable libs:** Kotlin Multiplatform, SQLDelight, Ktor.
+- **Link:** [MovieApp-ComposeMultiplatform](https://github.com/davidHarush/MovieApp-ComposeMultiplatform)
 
+**Older repos**
+- [MovieCompose](https://github.com/davidHarush/MovieCompose) — Compose app with Hilt, Coroutines, Ktor, and dynamic themes.
+- [PokeCompose](https://github.com/davidHarush/PokeCompose) — MVVM architecture with Compose and Ktor.
+- [AndroidTemplate](https://github.com/davidHarush/AndroidTemplate) — MVVM starter with View Binding.
+- [LruTimeBaseCache](https://github.com/davidHarush/LruTimeBaseCache) — LruCache wrapper with time-based expiration.
+- [Lifecyclelog](https://github.com/davidHarush/Lifecyclelog) — Utility to log `LifecycleOwner` events.
 
-##  Favorites repositories:
+## What I'm building now
+- KMM architecture with shared UI components.
+- AI image generation workflows in Compose Multiplatform.
+- Tooling and CI for faster builds and performance tuning.
 
-[ScannerApp](https://github.com/davidHarush/ScannerApp.git)
-<br/>
-ScannerApp is a Android application, Developed with Android Compose.
-<br/>
-Using google libray:  ```mlkit-document-scanner ```
-<br/>
-After scening the document you can Share or Save the file as PDF foramt
+## Let’s build together
+Interested in collaboration, mentoring, or speaking? Reach out!
 
-[TheMovieDbLab](https://github.com/davidHarush/TheMovieDbLab.git)
-<br/>
-A sleek Android app built with Jetpack Compose connecting to TheMovieDb API.
-<br/>
-It's a work-in-progress that showcases modern Android practices with Ktor, hilt and more.
-<br/>
+david.harush1@gmail.com · [LinkedIn](https://linkedin.com/in/YOUR-LINK)
 
-[AutoArtist](https://github.com/davidHarush/AutoArtist)
-<br/>
-A Compose Multiplatform project for android ansd ios that dynamically generates AI images using GPT and DALL-E APIs.
-<br/>
-This project includes dependency management with Koin and a gallery feature for stored outputs, enabling a seamless and interactive user experience
-<br/>
+## Stats
+<details>
+<summary>Show stats</summary>
 
+| | |
+|:--:|:--:|
+| ![GitHub Streak](https://streak-stats.demolab.com?user=davidHarush&hide_border=true#gh-light-mode-only) ![GitHub Streak](https://streak-stats.demolab.com?user=davidHarush&hide_border=true&theme=dark#gh-dark-mode-only) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidHarush&show_icons=true&hide_border=true#gh-light-mode-only) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidHarush&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidHarush&layout=compact&hide_border=true#gh-light-mode-only) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidHarush&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=davidHarush&no-bg=true&margin-w=5&margin-h=5&theme=flat&column=3#gh-light-mode-only) ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=davidHarush&no-bg=true&margin-w=5&margin-h=5&theme=onedark&column=3#gh-dark-mode-only) |
 
-[MovieApp-ComposeMultiplatform](https://github.com/davidHarush/MovieApp-ComposeMultiplatform)
-<br/>
-A Kotlin Multiplatform project designed for Android and iOS.
-<br/>
-It allows users to browse movies using data fetched from TheMovieDb API. The app supports offline caching and provides a responsive and engaging UI for movie discovery<br/>
-<br/>
+</details>
 
+---
 
-
-
-
-###  Here are some more repositories (but Old and not maintained):
-[MovieCompose](https://github.com/davidHarush/MovieCompose)
-* This Repo MovieCompose demonstrates Android development with Hilt, Coroutines, Flow, Jetpack Compose, Ktor, and Material Design based on MVVM architecture.
-* Use DynamicTheme and Apply dynamicColorScheme based off the system wallpaper.
-* All the network calls from sepred modle using Ktor with Kotlin serializable.
-
-[PokeCompose](https://github.com/davidHarush/PokeCompose)
-
-* This Repo PokeCompose demonstrates Android development with Hilt, Coroutines, Flow, Jetpack Compose, Ktor, and Material Design based on MVVM architecture.
-* All the network calls from sepred modle using Ktor with Kotlin serializable.
-
-
-[AndroidTemplate](https://github.com/davidHarush/AndroidTemplate)
-
-* This template provides a starting point for my Mvvm Android projects, with traditional XML technique and view binding.
-
-[LruTimeBaseCache](https://github.com/davidHarush/LruTimeBaseCache)
-
-* A Wrapper class for Android's LruCache which adds a time based expiration functionality.
-  
-[Lifecyclelog](https://github.com/davidHarush/Lifecyclelog)
-
-* Util to log LifecycleOwner events.
-
+_Built with ❤️ using Markdown. Last updated via GitHub Actions._
