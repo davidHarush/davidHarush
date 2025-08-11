@@ -16,7 +16,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidHarush&show_icons=true&theme=buefy&layout=compact" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidHarush&hide=python&show_icons=true&theme=buefy&layout=compact" alt="Top languages"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=davidHarush&show_icons=true&theme=buefy" alt="GitHub stats"/>
 </p>
